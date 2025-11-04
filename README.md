@@ -2,9 +2,8 @@
 
 Creating new repository on the command line:
 
-git init
-
+git init \
 gitt add README.md or git add . \
-git commit -m "message" -m "description"
-git remote add origin 'ssh link'
+git commit -m "message" -m "description" \
+git remote add origin 'ssh link' \
 git push origin master
