@@ -20,6 +20,7 @@ Check existing branches: \
 git branch
 
 If I now change stuff here, it doesn't appear on the other branches, like the master branch. \
-Push it to github using: \
+Merge it and push it to github using: \
+git merge [name of branch]
 git push -u origin feature-readme-instructions \
 Then you can merge them on github.
