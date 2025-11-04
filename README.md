@@ -18,3 +18,6 @@ git checkout [name of the branch]
 
 Check existing branches: \
 git branch
+
+If I now change stuff here, it doesn't appear on the other branches \
+
