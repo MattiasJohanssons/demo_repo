@@ -1,7 +1,9 @@
-# Demo
+## Creating new Repository
 
-Soome text
+Creating new repository on the command line:
 
-## Subheader
-
-Some more text
+git init
+gitt add README.md or git add .
+git commit -m "message" -m "description"
+git remote add origin 'ssh link'
+git push origin master
